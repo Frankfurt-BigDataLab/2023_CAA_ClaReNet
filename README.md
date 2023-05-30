@@ -16,16 +16,19 @@ You can have a look on the original dataset [here](https://catalogue.jerseyherit
 ----
 # References
 - `Albumentations`: Buslaev, Alexander, Vladimir I. Iglovikov, Eugene Khvedchenya, Alex Parinov, Mikhail Druzhinin, and Alexandr A. Kalinin. 2020. "Albumentations: Fast and Flexible Image Augmentations" Information 11, no. 2: 125. https://doi.org/10.3390/info11020125https://github.com/albumentations-team/albumentations
+- Heinecke, Andreas, Emanuel Mayer, Abhinav Natarajan, & Yoonju Jung (2021). Unsupervised Statistical Learning for Die Analysis in Ancient Numismatics. CoRR, abs/2112.00290.
 - `Centernet`: Kaiwen Duan, , Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang, and Qi Tian. "CenterNet: Keypoint Triplets for Object Detection".CoRR abs/1904.08189 (2019).
 - `DeepCluster`: Caron, Mathilde, Piotr, Bojanowski, Armand, Joulin, and Matthĳs, Douze. "Deep Clustering for Unsupervised Learning of Visual Features." . In European Conference on Computer Vision.2018.
 https://github.com/facebookresearch/deepcluster
 - [GradCam Implementation](https://github.com/keras-team/keras-io/blob/master/examples/vision/grad_cam.py)
+- Heinecke, Andreas, Emanuel Mayer, Abhinav Natarajan, and Yoonju Jung. "Unsupervised Statistical Learning for Die Analysis in Ancient Numismatics".CoRR abs/2112.00290 (2021).
 - [Keras Applications](https://keras.io/api/applications/)
 - `LabelImg`: Tzutalin. LabelImg. Git code (2015). https://github.com/tzutalin/labelImg
 - `Lime` : Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "Why should i trust you?: Explaining the predictions of any classifier." Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016.
 -  `Nonlinear total variation`: Leonid I. Rudin, Emad Fatemi. "Nonlinear total variation based noise removal algorithms". Physica D: Nonlinear Phenomena (1992).
 -  [Nonlinear total variation Implementation](https://github.com/danoan/image-processing)
 - `Shap`: Lundberg, Scott M, and Su-In, Lee. "A Unified Approach to Interpreting Model Predictions.". In Advances in Neural Information Processing Systems. Curran Associates, Inc., 2017. https://github.com/slundberg/shap
+- Taylor, Zachary McCord, "The Computer-Aided Die Study (CADS): A Tool for Conducting Numismatic Die Studies with Computer Vision and Hierarchical Clustering" (2020). Computer Science Honors Theses. 54.
 - [TensorFlow 2 Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
 - [Tensorflow 2 Object Detection API](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md)
 - [Training Custom Object Detector](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html)
