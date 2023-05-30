@@ -5,6 +5,7 @@ This repository contains the code or links to repositories that were used for Cl
 ----
 # References
 - Albumentations: Buslaev, Alexander, Vladimir I. Iglovikov, Eugene Khvedchenya, Alex Parinov, Mikhail Druzhinin, and Alexandr A. Kalinin. 2020. "Albumentations: Fast and Flexible Image Augmentations" Information 11, no. 2: 125. https://doi.org/10.3390/info11020125https://github.com/albumentations-team/albumentations
+- Centernet: Kaiwen Duan, , Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang, and Qi Tian. "CenterNet: Keypoint Triplets for Object Detection".CoRR abs/1904.08189 (2019).
 - DeepCluster: Caron, Mathilde, Piotr, Bojanowski, Armand, Joulin, and Matthĳs, Douze. "Deep Clustering for Unsupervised Learning of Visual Features." . In European Conference on Computer Vision.2018.
 https://github.com/facebookresearch/deepcluster
 - GradCam: https://github.com/keras-team/keras-io/blob/master/examples/vision/grad_cam.py
