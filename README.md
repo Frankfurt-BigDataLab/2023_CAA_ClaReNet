@@ -5,9 +5,5 @@ This repository contains the code or links to repositories that were used for Cl
 ----
 # References
 
-@InProceedings{caron2018deep,
-  title={Deep Clustering for Unsupervised Learning of Visual Features},
-  author={Caron, Mathilde and Bojanowski, Piotr and Joulin, Armand and Douze, Matthijs},
-  booktitle={European Conference on Computer Vision},
-  year={2018},
-}
+Mathilde Caron, Piotr Bojanowski, Armand Joulin, and Matthijs Douze. "Deep Clustering for Unsupervised Learning of Visual Features." Proc. ECCV (2018).
+https://github.com/facebookresearch/deepcluster
