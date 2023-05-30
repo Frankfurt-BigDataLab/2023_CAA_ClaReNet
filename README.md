@@ -1,10 +1,16 @@
 # 2023_CAA_ClaReNet
+
 ----
+
 This repository contains the code or links to repositories that were used for Clarenet's work on the hoard of Le Câtillon II in the paper: Supporting the analysis of a large coin hoard with AI-based methods 2023
+
 ----
+
 # Images
+
 All coin images belong to [Jersey Heritage](https://www.jerseyheritage.org/). We are grateful for working on them.
 You can have a look on the original dataset [here](https://catalogue.jerseyheritage.org/collection-search/?filters[0][field]=tab.keyword&filters[0][term]=Archaeology&filters[0][bool]=must&filters[1][field]=object_number&filters[1][term]=STATES/CATII&filters[1][bool]=must&filters[1][type]=match)
+
 ----
 # References
 - `Albumentations`: Buslaev, Alexander, Vladimir I. Iglovikov, Eugene Khvedchenya, Alex Parinov, Mikhail Druzhinin, and Alexandr A. Kalinin. 2020. "Albumentations: Fast and Flexible Image Augmentations" Information 11, no. 2: 125. https://doi.org/10.3390/info11020125https://github.com/albumentations-team/albumentations
