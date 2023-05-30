@@ -8,7 +8,7 @@ This repository contains the code or links to repositories that were used for Cl
 
 # Images
 
-All coin images belong to [Jersey Heritage](https://www.jerseyheritage.org/). We are grateful for working on them.
+All coin images belong to [Jersey Heritage](https://www.jerseyheritage.org/). We are grateful to be working on them.
 You can have a look on the original dataset [here](https://catalogue.jerseyheritage.org/collection-search/?filters[0][field]=tab.keyword&filters[0][term]=Archaeology&filters[0][bool]=must&filters[1][field]=object_number&filters[1][term]=STATES/CATII&filters[1][bool]=must&filters[1][type]=match)
 
 ----
