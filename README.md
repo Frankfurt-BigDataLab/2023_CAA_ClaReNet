@@ -19,8 +19,8 @@ You can have a look on the original dataset [here](https://catalogue.jerseyherit
 - `Centernet`: Kaiwen Duan, , Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang, and Qi Tian. "CenterNet: Keypoint Triplets for Object Detection".CoRR abs/1904.08189 (2019).
 - `DeepCluster`: Caron, Mathilde, Piotr, Bojanowski, Armand, Joulin, and Matthĳs, Douze. "Deep Clustering for Unsupervised Learning of Visual Features." . In European Conference on Computer Vision.2018.
 https://github.com/facebookresearch/deepcluster
-- `GradCam Implementation`: https://github.com/keras-team/keras-io/blob/master/examples/vision/grad_cam.py
-- `Keras Applications`: https://keras.io/api/applications/
+- [GradCam Implementation](https://github.com/keras-team/keras-io/blob/master/examples/vision/grad_cam.py)
+- [Keras Applications](https://keras.io/api/applications/)
 - `LabelImg`: Tzutalin. LabelImg. Git code (2015). https://github.com/tzutalin/labelImg
 - `Lime` : Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "Why should i trust you?: Explaining the predictions of any classifier." Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016.
 -  `Nonlinear total variation`: Leonid I. Rudin, Emad Fatemi. "Nonlinear total variation based noise removal algorithms". Physica D: Nonlinear Phenomena (1992).
@@ -30,4 +30,4 @@ https://github.com/facebookresearch/deepcluster
 - [Tensorflow 2 Object Detection API](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md)
 - [Training Custom Object Detector](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html)
 - `VGG16`: Simonyan, K., & Zisserman, A. (2014). Very Deep Convolutional Networks for Large-Scale Image Recognition. CoRR, abs/1409.1556.
-- `XRAI Implementation`: https://github.com/PAIR-code/saliency
+- [XRAI Implementation](https://github.com/PAIR-code/saliency)
