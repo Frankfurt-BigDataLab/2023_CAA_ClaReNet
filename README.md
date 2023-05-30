@@ -12,6 +12,6 @@ https://github.com/facebookresearch/deepcluster
 XRAI Implementation https://github.com/PAIR-code/saliency
 - Lime : Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "Why should i trust you?: Explaining the predictions of any classifier." Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016.
 - Shap: Lundberg, Scott M, and Su-In, Lee. "A Unified Approach to Interpreting Model Predictions." . In Advances in Neural Information Processing Systems. Curran Associates, Inc., 2017. https://github.com/slundberg/shap
-- [TensorFlow 2 Model Zoo] (https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+- [TensorFlow 2 Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
 - [Tensorflow 2 Object Detection API](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md)
 - [Training Custom Object Detector](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html)
