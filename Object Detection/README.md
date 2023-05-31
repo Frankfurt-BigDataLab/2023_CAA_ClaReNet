@@ -4,6 +4,8 @@ For the implementation of our object detection model we followed [tensorflows ob
 
 We used a CenterNet HourGlass104 512x512 from [tensorflow model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
 
+For the annotation we used [LabelImg](https://github.com/heartexlabs/labelImg)
+
 ----
 
 You can have a look at our blog for more details (https://clarenet.hypotheses.org/it-teil5) 
