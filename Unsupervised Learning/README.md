@@ -9,27 +9,27 @@ We cloned the original repository and made some changes to make it easier to use
 The following parameters were used for the results obtained in the publication:
 
 ---- 
-After separating by size: \
-  ARCH="vgg16" \
-  LR=0.05 \
-  WD=-5 \
-  K=100 \
-  EPOCHS=400 \
-  BATCH=128 \
+After separating by size: 
+  - ARCH="vgg16" 
+  - LR=0.05 
+  - WD=-5 
+  - K=100 
+  - EPOCHS=400 
+  - BATCH=128 
 
 -----
-After manual evaluation of the previous result: \
-  ARCH="vgg16" \
-  LR=0.05 \
-  WD=-5 \
-  K=25 \
-  EPOCHS=300 \
-  BATCH=128 \
+After manual evaluation of the previous result: 
+  - ARCH="vgg16" 
+  - LR=0.05 
+  - WD=-5 
+  - K=25 
+  - EPOCHS=300 
+  - BATCH=128 
 
 ----
-Used to detect and separate between dies: \
-  EPOCHS=250 \
-  BATCH=128 \
-  ITER=1 \
-  CHANGE_CLUSTER=10 #change the algorihm on the last x epochs \
-  CHANGE_ALGORITHM="hierarchical_clustering" \
+Used to detect and separate between dies: 
+  - EPOCHS=250 
+  - BATCH=128 
+  - ITER=1 
+  - CHANGE_CLUSTER=10 #change the algorihm on the last x epochs 
+  - CHANGE_ALGORITHM="hierarchical_clustering" 
