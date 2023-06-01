@@ -8,7 +8,6 @@ We cloned the original repository and made some changes to make it easier to use
 ----
 The following parameters were used for the results obtained in the publication:
 
----- 
 After separating by size: 
   - ARCH="vgg16" 
   - LR=0.05 
