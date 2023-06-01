@@ -10,12 +10,12 @@ The following parameters were used for the results obtained in the publication:
 
 ---- 
 After separating by size:
-  ARCH="vgg16"
-  LR=0.05
-  WD=-5
-  K=100
-  EPOCHS=400
-  BATCH=128
+  ARCH="vgg16" \n
+  LR=0.05 \n
+  WD=-5 \n
+  K=100 \n
+  EPOCHS=400 \n
+  BATCH=128 \n
 
 -----
 After manual evaluation of the previous result:
