@@ -7,5 +7,5 @@ Notebooks:
 
 After extracting the matches we used [Orange Data Mining](https://orangedatamining.com/) to apply the hierarchical clustering and visualise the result.
 
-[Orange Overwiev](figures/orange1.jpg)
-[Dendrogramm](figures/orange_gif.gif)
+![Orange Overwiev](figures/orange1.jpg)
+![Dendrogramm](figures/orange_gif.gif)
