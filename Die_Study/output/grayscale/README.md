@@ -1,1 +1,0 @@
-Photos: Jersey Heritage
