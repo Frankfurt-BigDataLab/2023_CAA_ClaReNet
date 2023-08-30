@@ -17,3 +17,8 @@ After extracting the matches we used [Orange Data Mining](https://orangedatamini
 - numpy
 - opencv
 - pandas
+
+----
+You can import the workflow we created in orange. You can find it in the `Orange` folder.  
+The input for the workflow is a matrix between all the images as a csv file, as created by `Extract_Matches`. 
+To visualise the images, a path to the files is necessary.
