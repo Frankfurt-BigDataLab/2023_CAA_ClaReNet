@@ -8,4 +8,4 @@ For the annotation we used [LabelImg](https://github.com/heartexlabs/labelImg)
 
 ----
 
-You can have a look at our blog for more details (https://clarenet.hypotheses.org/it-teil5) 
+Have a look at our blog for more details (https://clarenet.hypotheses.org/it-teil5) 
