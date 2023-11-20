@@ -4,7 +4,7 @@
 
 ----
 
-This repository contains the code or links to repositories that were used for Clarenet's work on the hoard of Le Câtillon II in the paper: Supporting the analysis of a large coin hoard with AI-based methods 2023
+This repository contains the code or links to repositories that were used for Clarenet's work on the hoard of Le Câtillon II in the paper: [Supporting the analysis of a large coin hoard with AI-based methods 2023](https://doi.org/10.5281/zenodo.8301561)
 
 In the `Unsupervised Learning` directory you will also find the parameters used for the work presented at the EAA2021.
 
